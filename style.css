@@ -22,7 +22,7 @@
 	padding: 10px
 }
 
-ul {
+table {
     border: 5;
 }
 
@@ -31,4 +31,10 @@ ul {
     bottom: 0;
     left: 0;
     width: 100%;
+}
+
+.central {
+    display: flex;
+    margin: 0;
+    height: 100vh;
 }
